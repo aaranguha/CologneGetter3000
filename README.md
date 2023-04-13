@@ -34,3 +34,7 @@ Notes
 This script uses the starttls() method to establish a secure connection to the email server before login and sending the message.
 The message body is formatted using f-strings to personalize the email with each company's name.
 It is recommended to use a disposable email address when sending these types of emails to avoid spamming your personal or professional email account.
+
+P.S.:
+
+If anyone finds a list of emails for Cologne Companies, please reach out!
