@@ -1,4 +1,4 @@
-#CologneGetter3000
+# CologneGetter3000
 
 The CologneGetter3000 is a Python script that sends an email to a list of companies requesting a free cologne tester. This script uses the smtplib library to connect to the email server and send the message.
 
