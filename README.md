@@ -11,11 +11,13 @@ Create a file named company_email_list.txt in the same directory as the script.
 
 In the company_email_list.txt file, add each company name and email address on a new line separated by a comma. For example:
 
-graphql
-Copy code
+
 Company A, company_a@example.com
+
 Company B, company_b@example.com
+
 Company C, company_c@example.com
+
 Open the colognegetter3000.py file and replace the sender_email variable with your own email address.
 
 Replace the password in smtp.login(sender_email, 'hiyulumnuelzifdo') with your own email account password or use environment variables for storing the sensitive information.
