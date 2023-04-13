@@ -1,0 +1,65 @@
+Burberry, customer.service@burberry.com
+Byredo, info@byredo.com
+D.S. & Durga, info@dsanddurga.com
+Paco Rabanne, contact@pacorabanne.com
+Ralph Lauren, customerservice@ralphlauren.com
+Salvatore Ferragamo, customercare@ferragamo.com
+Tiziana Terenzi, info@tizianaterenzi.com
+Amouage, info@amouage.com
+Helmut Lang, customerservice@helmutlang.com
+John Varvatos, customercare@johnvarvatos.com
+Nasomatto, info@nasomatto.com
+Nishane, info@nishane.com
+Puredistance, info@puredistance.com
+Scentbird, support@scentbird.com
+The Different Company, info@thedifferentcompany.com
+Tom Daxon, info@tomdaxon.com
+Ulrich Lang New York, info@ulrichlangnewyork.com
+Chantecaille, customerservice@chantecaille.com
+Diptyque, customerservice@diptyqueparis.com
+Drunk Elephant, info@drunkelephant.com
+Elemis, customerservice@elemis.com
+Ellis Brooklyn, info@ellisbrooklyn.com
+GHD, info@ghdhair.com
+Glossier, gteam@glossier.com
+Ilia, support@iliabeauty.com
+Kevin Murphy, customerservice@kevinmurphy.com.au
+Kiehl's, customerservice@kiehls.com
+Weebly, support@weebly.com
+Wild Turkey, info@wildturkeybourbon.com
+Wine.com, customerservice@wine.com
+Zappos, cs@zappos.com
+Zendesk, support@zendesk.com
+Zoho, support@zoho.com
+Zwift, support@zwift.com
+Aaptiv, support@aaptiv.com
+Alpha Industries, customerservice@alphaindustries.com
+BarkBox, happy@barkbox.com
+Bombas, hello@bombas.com
+Brooklinen, support@brooklinen.com
+Dollar Shave Club, support@dollarshaveclub.com
+Drizly, info@drizly.com
+Graze, hi@graze.com
+D.S. & Durga, info@dsanddurga.com
+Nasomatto, info@nasomatto.com
+Nishane, info@nishane.com
+Puredistance, info@puredistance.com
+Baldessarini, info@baldessarini.com
+Diptyque Paris, customerservice@diptyqueparis.com
+Emper Perfumes, info@emperperfumes.com
+F by Ferragamo, customercare@ferragamo.com
+House of Sillage, info@houseofsillage.com
+John Richmond, info@johnrichmond.com
+Joop!, info@joop.com
+Laura Biagiotti, info@laurabiagiotti.it
+Le Galion, contact@legalionparfums.com
+Tom Daxon, info@tomdaxon.com
+Xerjoff, info@xerjoff.com
+Amouage, info@amouage.com
+Atkinsons, info@atkinsons1799.com
+Diptyque, diptyque@diptyqueparis.com
+Histoires de Parfums, contact@histoiresdeparfums.com
+Montale, contact@montaleparfums.com
+Shay & Blue, info@shayandblue.com
+The Harmonist, info@theharmonist.com
+Ulrich Lang New York, info@ulrichlangnewyork.com
